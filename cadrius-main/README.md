@@ -58,6 +58,7 @@ Siga estes passos para levantar o ambiente de desenvolvimento completo em minuto
 1. Clonar o Repositório
 
 git clone https://github.com/JullioDutra/cadrius-backend.git
+cd cadrius-main
 
 
 2. Configurar Variáveis de Ambiente
